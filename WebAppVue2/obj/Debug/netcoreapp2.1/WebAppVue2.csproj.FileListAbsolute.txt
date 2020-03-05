@@ -1,0 +1,14 @@
+/Users/visualcamp/Documents/projects_Unity/WebAppVue2/WebAppVue2/bin/Debug/netcoreapp2.1/WebAppVue2.deps.json
+/Users/visualcamp/Documents/projects_Unity/WebAppVue2/WebAppVue2/bin/Debug/netcoreapp2.1/WebAppVue2.runtimeconfig.json
+/Users/visualcamp/Documents/projects_Unity/WebAppVue2/WebAppVue2/bin/Debug/netcoreapp2.1/WebAppVue2.runtimeconfig.dev.json
+/Users/visualcamp/Documents/projects_Unity/WebAppVue2/WebAppVue2/bin/Debug/netcoreapp2.1/WebAppVue2.dll
+/Users/visualcamp/Documents/projects_Unity/WebAppVue2/WebAppVue2/bin/Debug/netcoreapp2.1/WebAppVue2.pdb
+/Users/visualcamp/Documents/projects_Unity/WebAppVue2/WebAppVue2/obj/Debug/netcoreapp2.1/WebAppVue2.csprojAssemblyReference.cache
+/Users/visualcamp/Documents/projects_Unity/WebAppVue2/WebAppVue2/obj/Debug/netcoreapp2.1/WebAppVue2.csproj.CoreCompileInputs.cache
+/Users/visualcamp/Documents/projects_Unity/WebAppVue2/WebAppVue2/obj/Debug/netcoreapp2.1/WebAppVue2.RazorAssemblyInfo.cache
+/Users/visualcamp/Documents/projects_Unity/WebAppVue2/WebAppVue2/obj/Debug/netcoreapp2.1/WebAppVue2.RazorAssemblyInfo.cs
+/Users/visualcamp/Documents/projects_Unity/WebAppVue2/WebAppVue2/obj/Debug/netcoreapp2.1/WebAppVue2.AssemblyInfoInputs.cache
+/Users/visualcamp/Documents/projects_Unity/WebAppVue2/WebAppVue2/obj/Debug/netcoreapp2.1/WebAppVue2.AssemblyInfo.cs
+/Users/visualcamp/Documents/projects_Unity/WebAppVue2/WebAppVue2/obj/Debug/netcoreapp2.1/WebAppVue2.RazorTargetAssemblyInfo.cache
+/Users/visualcamp/Documents/projects_Unity/WebAppVue2/WebAppVue2/obj/Debug/netcoreapp2.1/WebAppVue2.dll
+/Users/visualcamp/Documents/projects_Unity/WebAppVue2/WebAppVue2/obj/Debug/netcoreapp2.1/WebAppVue2.pdb

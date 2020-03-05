@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="WebAppVue2" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="build" t="Include">
+          <e p="build.js" t="Include" />
+          <e p="check-versions.js" t="Include" />
+          <e p="logo.png" t="Include" />
+          <e p="utils.js" t="Include" />
+          <e p="vue-loader.conf.js" t="Include" />
+          <e p="webpack.base.conf.js" t="Include" />
+          <e p="webpack.dev.conf.js" t="Include" />
+          <e p="webpack.prod.conf.js" t="Include" />
+        </e>
+        <e p="config" t="Include">
+          <e p="dev.env.js" t="Include" />
+          <e p="index.js" t="Include" />
+          <e p="prod.env.js" t="Include" />
+        </e>
+        <e p="index.html" t="Include" />
+        <e p="node_modules" t="ExcludeRecursive">
+          <e p="@types" t="IncludeRecursive" />
+          <e p="aspnet-webpack" t="IncludeRecursive" />
+          <e p="autoprefixer" t="IncludeRecursive" />
+          <e p="babel-core" t="IncludeRecursive" />
+          <e p="babel-helper-vue-jsx-merge-props" t="IncludeRecursive" />
+          <e p="babel-loader" t="IncludeRecursive" />
+          <e p="babel-plugin-syntax-jsx" t="IncludeRecursive" />
+          <e p="babel-plugin-transform-runtime" t="IncludeRecursive" />
+          <e p="babel-plugin-transform-vue-jsx" t="IncludeRecursive" />
+          <e p="babel-preset-env" t="IncludeRecursive" />
+          <e p="babel-preset-stage-2" t="IncludeRecursive" />
+          <e p="chalk" t="IncludeRecursive" />
+          <e p="copy-webpack-plugin" t="IncludeRecursive" />
+          <e p="css-loader" t="IncludeRecursive" />
+          <e p="extract-text-webpack-plugin" t="IncludeRecursive" />
+          <e p="file-loader" t="IncludeRecursive" />
+          <e p="friendly-errors-webpack-plugin" t="IncludeRecursive" />
+          <e p="html-webpack-plugin" t="IncludeRecursive" />
+          <e p="node-notifier" t="IncludeRecursive" />
+          <e p="optimize-css-assets-webpack-plugin" t="IncludeRecursive" />
+          <e p="ora" t="IncludeRecursive" />
+          <e p="portfinder" t="IncludeRecursive" />
+          <e p="postcss-import" t="IncludeRecursive" />
+          <e p="postcss-loader" t="IncludeRecursive" />
+          <e p="postcss-url" t="IncludeRecursive" />
+          <e p="rimraf" t="IncludeRecursive" />
+          <e p="semver" t="IncludeRecursive" />
+          <e p="shelljs" t="IncludeRecursive" />
+          <e p="uglifyjs-webpack-plugin" t="IncludeRecursive" />
+          <e p="url-loader" t="IncludeRecursive" />
+          <e p="vue" t="IncludeRecursive" />
+          <e p="vue-loader" t="IncludeRecursive" />
+          <e p="vue-router" t="IncludeRecursive" />
+          <e p="vue-style-loader" t="IncludeRecursive" />
+          <e p="vue-template-compiler" t="IncludeRecursive" />
+          <e p="webpack" t="IncludeRecursive" />
+          <e p="webpack-bundle-analyzer" t="IncludeRecursive" />
+          <e p="webpack-dev-server" t="IncludeRecursive" />
+          <e p="webpack-hot-middleware" t="IncludeRecursive" />
+          <e p="webpack-merge" t="IncludeRecursive" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.1" t="Include">
+              <e p="WebAppVue2.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="package-lock.json" t="Include" />
+        <e p="package.json" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="README.md" t="Include" />
+        <e p="src" t="Include">
+          <e p="App.vue" t="Include" />
+          <e p="assets" t="Include">
+            <e p="logo.png" t="Include" />
+          </e>
+          <e p="components" t="Include">
+            <e p="HelloWorld.vue" t="Include" />
+          </e>
+          <e p="main.js" t="Include" />
+          <e p="router" t="Include">
+            <e p="index.js" t="Include" />
+          </e>
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="static" t="Include">
+          <e p=".gitkeep" t="Include" />
+        </e>
+        <e p="WebAppVue2.csproj" t="IncludeRecursive" />
+        <e p="webpack.config.js" t="Include" />
+        <e p="wwwroot" t="Include">
+          <e p="app.js" t="Include" />
+          <e p="index.html" t="Include" />
+          <e p="static" t="Include">
+            <e p="css" t="Include">
+              <e p="app.30790115300ab27614ce176899523b62.css" t="Include" />
+              <e p="app.30790115300ab27614ce176899523b62.css.map" t="Include" />
+            </e>
+            <e p="js" t="Include">
+              <e p="app.f45908284df0a193f5aa.js" t="Include" />
+              <e p="app.f45908284df0a193f5aa.js.map" t="Include" />
+              <e p="manifest.2ae2e69a05c33dfc65f8.js" t="Include" />
+              <e p="manifest.2ae2e69a05c33dfc65f8.js.map" t="Include" />
+              <e p="vendor.4ad267b4786a3ebd3327.js" t="Include" />
+              <e p="vendor.4ad267b4786a3ebd3327.js.map" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="WebAppVue2.sln" t="IncludeFlat" />
+    </e>
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2018.3/resharper-host/local/Transient/ReSharperHost/v183/SolutionCaches/_WebAppVue2.-1565994119.00" t="ExcludeRecursive" />
+  </component>
+</project>
